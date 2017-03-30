@@ -1,2 +1,7 @@
 #Commands
 sudo apt-get install python-matplotlib
+
+*************************************************************************
+
+python -m pip install -U pip setuptools
+python -m pip install matplotlib
