@@ -1,6 +1,5 @@
 /*
  Weather Shield Example
- By: Nathan Seidle
  SparkFun Electronics
  Date: June 10th, 2016
  License: This code is public domain
