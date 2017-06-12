@@ -1,0 +1,2 @@
+The Raspberry Pi is a very important piece of Hardware in the Meteodeep equipment range.
+Add-on Hardware is used in many aspects of our day to day operations including Web Hosting and Weather measurements.
