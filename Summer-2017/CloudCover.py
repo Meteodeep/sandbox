@@ -1,5 +1,5 @@
 
-temp=(int(input("Please nenter the Current Air Temperature (in Degrees C)")))
+temp=(int(input("Please enter the Current Air Temperature (in Degrees C)")))
 humidity=(int(input("Please enter the current Humidity (from %)")))
 
 calc = 100-humidity
