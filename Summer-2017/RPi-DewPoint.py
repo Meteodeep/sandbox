@@ -15,6 +15,6 @@ calc2 = calc/5
 
 dewpoint = temp - calc2
 
-dewpoint = (str(dewpoint)
+dewpoint = (str(dewpoint))
 
 print(dewpoint + " degrees C")
