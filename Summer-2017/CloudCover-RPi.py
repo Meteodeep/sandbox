@@ -19,4 +19,8 @@ depression = temp - dewpoint
 
 cloudcover = depression * 400
 
-print(cloudcover)
+cloudcover = cloudcover * 0.3048
+
+cloudcover = (str(cloudcover))
+
+print(cloudcover + "m")
