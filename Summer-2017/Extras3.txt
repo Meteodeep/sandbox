@@ -1,0 +1,11 @@
+Integers to Floats: your_float = float(yor_integer)
+
+Integer = 1, 2, 3, 4........
+Float = Real Number
+
+String = Text
+
+Extras:
+% increase = Increase ÷ Original Number × 100
+
+Read more at: https://www.skillsyouneed.com/num/percent-change.html
