@@ -8,6 +8,8 @@ sleep(4)
 
 menu=input("What would you like to find: Force, Acceleration or Mass??")
 
+menu = menu.lower() #string functions
+
 if menu == "Force" or menu == "force":
     mass=(int(input("Please enter your given Mass.. (in kg)")))
     accel=(int(input("Please enter your given Acceleration... (in m/s^2)")))
