@@ -1,3 +1,4 @@
+#Algorithim/Function with 3 Constants
 from time import sleep
 
 currentCO2 = 404.77
@@ -16,4 +17,4 @@ while True:
 
 #Data: Climate Central/NOAA
 #Calculated using Averages on Python 3
-#Exponential Increase
+#Exponential Increase year-by-year
