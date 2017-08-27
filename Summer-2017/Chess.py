@@ -8,4 +8,6 @@ while True:
 
         print(random.choice(string.ascii_letters[0:7])) #splicing the Alphabet
         print(randint(1,8)) #Numbers: 1-8 Range
-        sleep(10)
+        print(random.choice(string.ascii_letters[0:7])) #splicing the Alphabet
+        print(randint(1,8)) #Numbers: 1-8 Range
+        sleep(10) #Double for Grids on Game Board
