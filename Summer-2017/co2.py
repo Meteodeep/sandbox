@@ -10,7 +10,7 @@ while True:
 
         currentCO2 = currentCO2 + currentyearlyincrease + yearbyyearincrease
         print(currentCO2)
-        yearbyyearincrease = yearbyyearincrease * 2
+        yearbyyearincrease = yearbyyearincrease + 0.036
         sleep(5)
 
 
