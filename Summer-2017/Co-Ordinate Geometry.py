@@ -4,13 +4,15 @@ while True:
 
     print("Co-Ordinate Geometry")
 
-    y1=(int(input("Please enter Y1")))
-    y2=(int(input("Please enter Y2")))
-    x1=(int(input("Please enter X1")))
-    x2=(int(input("Please enter X2")))
+    y1=(float(input("Please enter Y1")))
+    y2=(float(input("Please enter Y2")))
+    x1=(float(input("Please enter X1")))
+    x2=(float(input("Please enter X2")))
 
 
     menu=input("Find the Slope OR Length OR Midpoint")
+    
+    menu = menu.lower()
 
     if menu == "Length":
         one = x2-x1**2
@@ -34,6 +36,4 @@ while True:
         
         
         
-
-
 
