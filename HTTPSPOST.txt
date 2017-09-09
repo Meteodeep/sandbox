@@ -1,0 +1,10 @@
+pipenv install requests
+
+import requests
+
+r = requests.get('https://api.github.com/events')
+
+r = requests.post('http://httpbin.org/post', data = {'key':'value'})
+
+>>> payload = {'key1': 'value1', 'key2': 'value2'}
+>>> r = requests.get('http://httpbin.org/get', params=payload)
