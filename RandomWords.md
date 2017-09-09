@@ -1,4 +1,4 @@
-<code> >>> from random_words import RandomWords
+>>> from random_words import RandomWords
 >>> rw = RandomWords()
 >>> word = rw.random_word()
 >>> print word
@@ -18,4 +18,4 @@ yards
 
 >>> words = rw.random_words(letter=None, count=2)
 >>> print words
-['tides', 'eights'] </code>
+['tides', 'eights']
