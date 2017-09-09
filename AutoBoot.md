@@ -8,6 +8,6 @@
 Encoding=UTF-8
 Name=Connect
 Comment=Checks internet connectivity
-Exec=/usr/bin/chromium-browser -incognito --kiosk YOUR_WEB_ADDRESS<code>
+Exec=/usr/bin/chromium-browser -incognito --kiosk YOUR_WEB_ADDRESS</code>
 
 3. Reboot!
