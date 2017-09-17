@@ -1,5 +1,4 @@
 class TropicalStorm(object):
-    """A class that makes various tasty fruits."""
     def __init__(storm, name, pressure, windgust, hurricane):
         storm.name = name
         storm.pressure = pressure
