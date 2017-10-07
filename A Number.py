@@ -20,6 +20,7 @@ while(count < 6):
 
     elif mynumber == number:
         print("WELL DONE!")
+        break
         
 print(random)
 
