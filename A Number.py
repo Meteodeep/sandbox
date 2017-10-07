@@ -1,12 +1,11 @@
 import random
 
-number=random.random()
-numberone=10*number
-numberone= (int(numberone))
+number=random.randint(0,50)
+number= (int(number))
 
 count = 0
 
-while(count < 4):
+while(count < 5):
     
     
     mynumber=(int(input("Guess the Number?")))
