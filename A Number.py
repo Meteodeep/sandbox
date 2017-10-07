@@ -5,7 +5,7 @@ number= (int(number))
 
 count = 0
 
-while(count < 5):
+while(count < 6):
     
     
     mynumber=(int(input("Guess the Number?")))
@@ -20,6 +20,8 @@ while(count < 5):
 
     elif mynumber == number:
         print("WELL DONE!")
+        
+print(random)
 
 
 
