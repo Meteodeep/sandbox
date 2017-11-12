@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <span id="div1" style="color:black;" onmouseover="stext()" onmouseout="htext()">TEXT1</span><p />
+        <hr color="black" />
+    <span id="div2" style="color:red;" onmouseover="htext()" onmouseout="stext()">Text2</span> 
+      
+          function stext() {
+        var x = document.getElementById("div1");
+        var y = document.getElementById("div2");
+        x.style.color = 'red';
+        y.style.color = 'black';
+    }
+
+    function htext() {
+        var x = document.getElementById("div1");
+        var y = document.getElementById("div2");
+        x.style.color = 'black';
+        y.style.color = 'red';
+    }
