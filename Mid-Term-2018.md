@@ -10,3 +10,5 @@ Extra Microbit Systems (Radio and Pins and Variables and arrays (for storing int
 Linux and Groundcontrol and Windows (Old PC's and printers)
 Decoding UHF and Satillite signal (only begun)
 Drawing with Python Fuctions and ioT (next)
+Online Upload systems
+triggers etc.
